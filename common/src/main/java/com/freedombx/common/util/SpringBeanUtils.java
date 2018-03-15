@@ -2,7 +2,6 @@ package com.freedombx.common.util;
 
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;
-import org.springframework.util.ReflectionUtils;
 
 public class SpringBeanUtils {
     private static ApplicationContext applicationContext = null;
